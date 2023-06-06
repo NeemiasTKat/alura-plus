@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://camo.githubusercontent.com/bc65010b31bd1183ec7d726591b60b34a9ef5168a01e31ad6cfdb2b9413c6ada/68747470733a2f2f696d6775722e636f6d2f4241537a566f702e706e67" alt="Praticando HTML e CSS">
 
-<h4>👨‍💻 Projeto - Alura-plus - Aula 👨‍💻</h4>
+<h3 align="center">👨‍💻 Projeto - Alura-plus - Aula 👨‍💻</h3>
 
 ## Desenvolvido com:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" widht= 35px; height= 35px> &nbsp;
